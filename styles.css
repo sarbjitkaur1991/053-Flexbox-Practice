@@ -1,0 +1,12 @@
+.sample1{
+    display:flex;
+    justify-content:space-around;
+    background-color:yellow;
+    padding:25px;
+    margin:10px;
+    color:red;
+    border:10px solid red;
+}
+.item{
+    border:2px dotted black;}
+ 
